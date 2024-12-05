@@ -40,4 +40,4 @@
 - [Project Name 3](https://github.com/your-username/project3)– Brief description of what this project does or its significance.
 ---
 ### ⚡ Fun fact:
-I enjoy exploring new technologies and improving my skills through hands-on projects!
+Yes, the dog in my profile picture is my best friend's dog as Wednesday Addams.
