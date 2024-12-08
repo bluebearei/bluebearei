@@ -33,11 +33,5 @@
 - [Email](mailto:faonimas@example.com)
 
 ---
-### 🚀 Projects
-
-- [Project Name 1](https://github.com/your-username/project1)– Brief description of what this project does or its significance.
-- [Project Name 2](https://github.com/your-username/project2)– Brief description of what this project does or its significance.
-- [Project Name 3](https://github.com/your-username/project3)– Brief description of what this project does or its significance.
----
 ### ⚡ Fun fact:
 Yes, the dog in my profile picture is my best friend's dog as Wednesday Addams.
